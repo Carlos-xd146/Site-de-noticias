@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 22081,
+  "articles": [
+    {
+      "source": {
+        "id": "marca",
+        "name": "Marca"
+      },
+      "author": "Dídac Piferrer",
+      "title": "Muere la influencer Luanna Araújo junto a su prometido en su 29 cumpleaños",
+      "description": "Su novio y un amigo también pierden la vida en la celebración",
+      "url": "https://www.marca.com/tiramillas/sociedad/2025/10/06/muere-influencer-luanna-araujo-prometido-29-cumpleanos.html",
+      "urlToImage": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2025/10/06/68e389b95d681.jpeg",
+      "publishedAt": "2025-10-06T09:24:05Z",
+      "content": "La influencer Luanna Araújo ha muerto mientras celebraba su 29 cumpleaños en un fatídico choque en la carretera. La brasileña perdió la vida junto a su prometido, Korbinian Andreas Dengler, y a un am… [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Observador.pt"
+      },
+      "author": "Agência Lusa",
+      "title": "Afropsis: acesso à saúde mental em Portugal ainda é limitado",
+      "description": "O co-fundador da Afropsis diz que o preço dos cuidados em saúde mental \"é uma barreira efetiva\" para as comunidades africanas, que têm \"rendimentos médios mais baixos\".",
+      "url": "https://observador.pt/2025/10/06/acesso-a-saude-mental-para-comunidades-africanas-em-portugal-ainda-e-limitado-diz-afropsis/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2298%3Anowe%3A0%3A53%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F21121624%2FGettyImages-1090299180-scaled.jpg?layer=obstop:T",
+      "publishedAt": "2025-10-06T09:23:34Z",
+      "content": "O co-fundador da Afropsis, Henda Vieira-Lopes, alertou que barreiras culturais, financeiras e estruturais ainda limitam o acesso das comunidades africanas e afrodescendentes à saúde mental em Portuga… [+3429 chars]"
+    }
+  ]
+}
