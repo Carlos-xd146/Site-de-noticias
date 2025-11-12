@@ -26,7 +26,7 @@
 //     })
 
 
-fetch("./../DataBase.json").then(response => response.json()).then(data => {
+fetch("https://newsapi.org/v2/everything?q=brasil&from=2025-10-27&sortBy=publishedAt&apiKey=366a4893cc3440b486f45b01e7fe90a5").then(response => response.json()).then(data => {
     // const noticiaUrl = 'https://observador.pt/2025/10/06/acesso-a-saude-mental-para-comunidades-africanas-em-portugal-ainda-e-limitado-diz-afropsis/';
     // const artigo = data.articles.find((article) => article.url === noticiaUrl);
     // console.log(artigo);
