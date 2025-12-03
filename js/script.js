@@ -71,7 +71,7 @@ const diaAnterior = ano+'-'+mes+'-'+dia;
     // const artigo = data.articles.find((article) => article.url === noticiaUrl);
     // console.log(artigo);
 
-fetch("./../DataBase.json").then(response => response.json()).then(data => {
+fetch("./DataBase.json").then(response => response.json()).then(data => {
     const container = document.createElement('div');
     data.articles.forEach(article => {
         const noticia = document.createElement('div');
